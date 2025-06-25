@@ -9,7 +9,7 @@ Website Hệ Thông Quản Lý Bán Vé Xe Khách
 
 I. Giới thiệu chung    
 
-1.1 Mục tiêu
+1.1 Mục tiêu  
     Mục tiêu của đề tài "Quản lý Bán Vé Xe khách" là tạo ra một  hệ thống này mang lại sự thuận tiện vượt trội khi cho phép người dùng dễ dàng đặt vé trực tuyến, lựa chọn chỗ ngồi, thanh toán linh hoạt và kiểm tra lịch trình chuyến đi mọi lúc, mọi nơi. Điều này góp phần nâng cao trải nghiệm khách hàng và giảm thiểu thời gian chờ đợi khi mua trực tiếp tại quầy. Ngoài ra hệ thống còn hỗ trợ doanh nghiệp trong việc quản lý thông tin khách hàng, kiểm soát số lượng vé bán ra, theo dõi doanh thu và lập báo cáo thống kê một cách nhanh chóng, chính xác
 
 1.2 Mô tả đề tài  

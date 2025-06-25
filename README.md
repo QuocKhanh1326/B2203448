@@ -13,8 +13,8 @@ I. Giới thiệu chung
 
 1.2 Mô tả đề tài  
 1.2.1 Phạm vi đề tài  
-    Quản lý bán vé xe khách là một hệ thống phục vụ nhu cầu di chuyển của hành khách trên toàn quốc, với mục tiêu tạo điều kiện thuận lợi nhất cho việc đặt vé và sử dụng dịch vụ của khách hàng. Hệ thống giúp hành khách dễ truy cập thông tin về lịch trình, giá vé và tình trạng chỗ ngồi, các địa điểm bến xe, đặt vé, chọn chỗ ngồi, thanh toán. Ngoài ra, hệ thống sẽ gợi ý các tuyền đường quen thuộc phù hợp cho khách hàng thường xuyên đặt vé.
-1.2.22 Nhóm người dùng chính  
+    Quản lý bán vé xe khách là một hệ thống phục vụ nhu cầu di chuyển của hành khách trên toàn quốc, với mục tiêu tạo điều kiện thuận lợi nhất cho việc đặt vé và sử dụng dịch vụ của khách hàng. Hệ thống giúp hành khách dễ truy cập thông tin về lịch trình, giá vé và tình trạng chỗ ngồi, các địa điểm bến xe, đặt vé, chọn chỗ ngồi, thanh toán. Ngoài ra, hệ thống sẽ gợi ý các tuyền đường quen thuộc phù hợp cho khách hàng thường xuyên đặt vé.  
+1.2.2 Nhóm người dùng chính  
     - Khách hàng: tìm kiếm thông tin chuyến xe, đặt vé, tra cứu thông tin vé xe, thanh toán.  
     - Khách hàng thành viên: tìm kiếm thông tin chuyến xe, đặt vé, tra cứu thông tin vé xe, thanh toán, xem lịch sử đặt vé, cập nhật thông tin cá nhân.  
     - Nhân viên quản lý: quản lý thông tin khách hàng, quản lý thông tin bến xe, quản lý thông tin xe và loại xe, quản lý thông tin tuyến đường, quản lý vé, quản lý đánh giá khách hàng.  
